@@ -36,7 +36,8 @@ Diabetes-Prediction-Model/
 1. **Clone the Repository**
    ```bash
    git clone [https://github.com/laosrb/Diabetes-Prediction-Model.git](https://github.com/laosrb/Diabetes-Prediction-Model.git)
-   cd Diabetes-Prediction-Model```
+   cd Diabetes-Prediction-Model
+   ```
 
 ---
 ### Install Dependecies
