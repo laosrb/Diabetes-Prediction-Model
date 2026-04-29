@@ -42,7 +42,10 @@ Diabetes-Prediction-Model/
 ### Install Dependecies
 - pandas
 - numpy
+- seaborn
+- matplotlib
 - scikit-learn
+- pytorch
 
 ## Model Evaluation
 
