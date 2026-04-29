@@ -1,6 +1,6 @@
 # Diabetes Prediction Model
 ### Machine Learning Project
-**By: Tiffany Santiago & Ryan Bouapheng**
+**By: Tiffany Santiago Garcia & Ryan Bouapheng**
 
 ---
 
